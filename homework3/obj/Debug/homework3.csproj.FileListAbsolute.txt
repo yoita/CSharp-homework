@@ -1,0 +1,7 @@
+D:\我的文档\大二\大二上\C#-贾向阳\作业\homework3\homework3\bin\Debug\homework3.exe.config
+D:\我的文档\大二\大二上\C#-贾向阳\作业\homework3\homework3\bin\Debug\homework3.exe
+D:\我的文档\大二\大二上\C#-贾向阳\作业\homework3\homework3\bin\Debug\homework3.pdb
+D:\我的文档\大二\大二上\C#-贾向阳\作业\homework3\homework3\obj\Debug\homework3.csprojResolveAssemblyReference.cache
+D:\我的文档\大二\大二上\C#-贾向阳\作业\homework3\homework3\obj\Debug\homework3.csproj.CoreCompileInputs.cache
+D:\我的文档\大二\大二上\C#-贾向阳\作业\homework3\homework3\obj\Debug\homework3.exe
+D:\我的文档\大二\大二上\C#-贾向阳\作业\homework3\homework3\obj\Debug\homework3.pdb
