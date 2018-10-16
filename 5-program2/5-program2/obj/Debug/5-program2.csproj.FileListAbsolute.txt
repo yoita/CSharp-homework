@@ -1,0 +1,10 @@
+D:\我的文档\大二\大二上\C#-贾向阳\作业\homework5\5-program2\5-program2\obj\Debug\5-program2.csprojResolveAssemblyReference.cache
+D:\我的文档\大二\大二上\C#-贾向阳\作业\homework5\5-program2\5-program2\obj\Debug\_5_program2.Form1.resources
+D:\我的文档\大二\大二上\C#-贾向阳\作业\homework5\5-program2\5-program2\obj\Debug\_5_program2.Properties.Resources.resources
+D:\我的文档\大二\大二上\C#-贾向阳\作业\homework5\5-program2\5-program2\obj\Debug\5-program2.csproj.GenerateResource.Cache
+D:\我的文档\大二\大二上\C#-贾向阳\作业\homework5\5-program2\5-program2\obj\Debug\5-program2.csproj.CoreCompileInputs.cache
+D:\我的文档\大二\大二上\C#-贾向阳\作业\homework5\5-program2\5-program2\bin\Debug\5-program2.exe.config
+D:\我的文档\大二\大二上\C#-贾向阳\作业\homework5\5-program2\5-program2\bin\Debug\5-program2.exe
+D:\我的文档\大二\大二上\C#-贾向阳\作业\homework5\5-program2\5-program2\bin\Debug\5-program2.pdb
+D:\我的文档\大二\大二上\C#-贾向阳\作业\homework5\5-program2\5-program2\obj\Debug\5-program2.exe
+D:\我的文档\大二\大二上\C#-贾向阳\作业\homework5\5-program2\5-program2\obj\Debug\5-program2.pdb
